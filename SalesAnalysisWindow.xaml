@@ -1,0 +1,20 @@
+﻿<Window x:Class="ProyectoFinal2.SalesAnalysisWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Análisis de Ventas" Height="450" Width="800">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Análisis de Ventas" FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
+            <Button Content="Generar Reporte" Click="GenerarReporte_Click" Width="150" Margin="5"/>
+            <DataGrid x:Name="dgVentas" AutoGenerateColumns="False" Height="200" Margin="10,0,0,0">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Fecha" Binding="{Binding Fecha}"/>
+                    <DataGridTextColumn Header="Producto" Binding="{Binding Producto}"/>
+                    <DataGridTextColumn Header="Cantidad" Binding="{Binding Cantidad}"/>
+                    <DataGridTextColumn Header="Monto" Binding="{Binding Monto}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <!-- Aquí se podrían agregar gráficos y otros elementos visuales para el análisis de ventas -->
+        </StackPanel>
+    </Grid>
+</Window>

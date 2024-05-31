@@ -1,0 +1,180 @@
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2_MarkupCompile.cache
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2_MarkupCompile.lref
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.exe
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.deps.json
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.runtimeconfig.json
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.dll
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.pdb
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.g.resources
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.dll
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\refint\ProyectoFinal2.dll
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.pdb
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\MIO 3.0\Claase programacion\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ref\ProyectoFinal2.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.exe
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.deps.json
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.pdb
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2_MarkupCompile.cache
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2_MarkupCompile.lref
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.g.resources
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\refint\ProyectoFinal2.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.pdb
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ref\ProyectoFinal2.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.dll.config
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.csproj.CopyComplete
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.exe
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.dll.config
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.deps.json
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.runtimeconfig.json
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ProyectoFinal2.pdb
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.csproj.AssemblyReference.cache
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2_MarkupCompile.cache
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2_MarkupCompile.lref
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.g.resources
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.AssemblyInfoInputs.cache
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.AssemblyInfo.cs
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.csproj.CoreCompileInputs.cache
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\Proyecto.B00C6C18.Up2Date
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\refint\ProyectoFinal2.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.pdb
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ProyectoFinal2.genruntimeconfig.cache
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\ref\ProyectoFinal2.dll
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\CronogramaWindow.g.cs
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\CronogramaWindow.baml
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\CustomerMangementWindow.baml
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\SalesAnalysisWindow.baml
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\CustomerMangementWindow.g.cs
+C:\Users\Pineda's\Desktop\ProyectoFinal2\ProyectoFinal2\obj\Debug\net8.0-windows\SalesAnalysisWindow.g.cs

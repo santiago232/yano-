@@ -1,0 +1,140 @@
+﻿<Window x:Class="ProyectoFinal2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoFinal2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Window.Resources>
+        <SolidColorBrush x:Key="PrimaryColor" Color="#003262"/>
+        <SolidColorBrush x:Key="SecondaryColor" Color="#7A9BA5"/>
+        <SolidColorBrush x:Key="AccentColor" Color="#FFFFFF"/>
+        <SolidColorBrush x:Key="BackgroundColor" Color="#F2F2F2"/>
+
+        <!-- Define tus estilos de color de encabezado -->
+        <SolidColorBrush x:Key="HeaderColor1" Color="#003262"/>
+        <SolidColorBrush x:Key="HeaderColor2" Color="#7A9BA5"/>
+        <SolidColorBrush x:Key="HeaderColor3" Color="#003262"/>
+
+        <!-- Estilos -->
+        <Style TargetType="TabControl">
+            <Setter Property="Background" Value="{StaticResource BackgroundColor}"/>
+            <Setter Property="Padding" Value="10"/>
+        </Style>
+
+        <Style TargetType="TabItem">
+            <Setter Property="Foreground" Value="{StaticResource AccentColor}"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="Margin" Value="5,0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TabItem">
+                        <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}">
+                            <ContentPresenter x:Name="ContentSite" VerticalAlignment="Center" HorizontalAlignment="Center" ContentSource="Header" Margin="12,2,12,2"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="Header1" TargetType="TabItem">
+            <Setter Property="Background" Value="{StaticResource HeaderColor1}"/>
+        </Style>
+        <Style x:Key="Header2" TargetType="TabItem">
+            <Setter Property="Background" Value="{StaticResource HeaderColor2}"/>
+        </Style>
+        <Style x:Key="Header3" TargetType="TabItem">
+            <Setter Property="Background" Value="{StaticResource HeaderColor3}"/>
+        </Style>
+
+        <Storyboard x:Key="FadeInAnimation">
+            <DoubleAnimation Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:0.5"/>
+        </Storyboard>
+    </Window.Resources>
+
+    <Grid Background="{StaticResource BackgroundColor}">
+        <TabControl>
+            <TabItem Header="Cronograma" Loaded="TabItem_Loaded">
+                <Button Content="Abrir Cronograma" Click="AbrirCronograma_Click"/>
+            </TabItem>
+            <TabItem Header="Gestión de Clientes" Loaded="TabItem_Loaded">
+                <Button Content="Abrir Gestión de Clientes" Click="AbrirGestionClientes_Click"/>
+            </TabItem>
+            <TabItem Header="Análisis de Ventas" Loaded="TabItem_Loaded">
+                <Button Content="Abrir Análisis de Ventas" Click="AbrirAnalisisVentas_Click"/>
+            </TabItem>
+            <TabItem Header="Registro de Transacciones" Style="{StaticResource Header1}" Loaded="TabItem_Loaded">
+                <StackPanel Margin="10">
+                    <Button Content="Guardar y Cerrar" Click="GuardarYCerrar_Click" Width="734" Height="39"/>
+
+                    <TextBlock Text="Tipo de Transacción:"/>
+                    <ComboBox x:Name="cmbTipoTransaccion" Width="200" SelectionChanged="cmbTipoTransaccion_SelectionChanged">
+                        <ComboBoxItem>Compra</ComboBoxItem>
+                        <ComboBoxItem>Venta</ComboBoxItem>
+                    </ComboBox>
+
+                    <TextBlock Text="Código:" x:Name="lblCodigo" Visibility="Collapsed"/>
+                    <TextBox x:Name="txtCodigo" Width="200" Visibility="Collapsed"/>
+                    <TextBlock Text="Descripción:" x:Name="lblDescripcion" Visibility="Collapsed"/>
+                    <TextBox x:Name="txtDescripcion" Width="200" Visibility="Collapsed"/>
+                    <TextBlock Text="Cantidad:" x:Name="lblCantidad" Visibility="Collapsed"/>
+                    <TextBox x:Name="txtCantidad" Width="200" Visibility="Collapsed"/>
+                    <TextBlock Text="Precio de Ingreso:" x:Name="lblPrecioIngreso" Visibility="Collapsed"/>
+                    <TextBox x:Name="txtPrecioIngreso" Width="200" Visibility="Collapsed"/>
+                    <TextBlock Text="Precio de Venta:" x:Name="lblPrecioVenta" Visibility="Collapsed"/>
+                    <TextBox x:Name="txtPrecioVenta" Width="200" Visibility="Collapsed"/>
+                    <TextBlock Text="Fecha de Ingreso:" x:Name="lblFechaIngreso" Visibility="Collapsed"/>
+                    <DatePicker x:Name="dpFechaIngreso" Width="200" Visibility="Collapsed"/>
+
+                    <TextBlock Text="Cantidad:" x:Name="lblCantidadVenta" Visibility="Collapsed"/>
+                    <TextBox x:Name="txtCantidadVenta" Width="200" Visibility="Collapsed"/>
+                    <TextBlock Text="Descripción:" x:Name="lblDescripcionVenta" Visibility="Collapsed"/>
+                    <TextBox x:Name="txtDescripcionVenta" Width="200" Visibility="Collapsed"/>
+                    <TextBlock Text="Monto:" x:Name="lblMontoVenta" Visibility="Collapsed"/>
+                    <TextBox x:Name="txtMontoVenta" Width="200" Visibility="Collapsed"/>
+
+                    <Button Content="Registrar Transacción" Click="RegistrarTransaccion_Click"/>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Gestión de Inventario" Style="{StaticResource Header2}" Loaded="TabItem_Loaded">
+                <StackPanel Margin="10">
+                    <StackPanel Orientation="Horizontal">
+                        <Button Content="Buscar" Click="BuscarProducto_Click"/>
+                        <TextBox x:Name="txtBuscarProducto" Width="200" TextChanged="txtBuscarProducto_TextChanged">
+                            <ToolTipService.ToolTip>
+                                <ToolTip Content="Buscar Producto"/>
+                            </ToolTipService.ToolTip>
+                        </TextBox>
+                        <Button Content="Reportes y Estadísticas" Click="GenerarReportes_Click" Background="#FFBC341F"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal"/>
+                    <DataGrid x:Name="dgInventario" AutoGenerateColumns="False">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Código" Binding="{Binding Codigo}"/>
+                            <DataGridTextColumn Header="Descripción" Binding="{Binding Descripcion}"/>
+                            <DataGridTextColumn Header="Cantidad" Binding="{Binding Cantidad}"/>
+                            <DataGridTextColumn Header="Precio de Ingreso" Binding="{Binding PrecioIngreso}"/>
+                            <DataGridTextColumn Header="Precio de Venta" Binding="{Binding PrecioVenta}"/>
+                            <DataGridTextColumn Header="Fecha de Ingreso" Binding="{Binding FechaIngreso}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Control de Caja" Style="{StaticResource Header3}" Height="20" VerticalAlignment="Top" Loaded="TabItem_Loaded">
+                <StackPanel Margin="5">
+                    <DataGrid x:Name="dgMovimientos" AutoGenerateColumns="False">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Tipo de Movimiento" Binding="{Binding TipoMovimiento}"/>
+                            <DataGridTextColumn Header="Cantidad" Binding="{Binding Cantidad}"/>
+                            <DataGridTextColumn Header="Descripción" Binding="{Binding Descripcion}"/>
+                            <DataGridTextColumn Header="Monto" Binding="{Binding Monto}"/>
+                            <DataGridTextColumn Header="Fecha" Binding="{Binding Fecha}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
